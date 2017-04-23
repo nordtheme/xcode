@@ -4,6 +4,17 @@
 
 ---
 
+# 0.1.0
+*2017-04-23*
+## Features
+Detailed information and install instructions can be found in the [README](https://github.com/arcticicestudio/nord-xcode/blob/develop/README.md#installation) and in the [project wiki](https://github.com/arcticicestudio/nord-xcode/wiki).
+
+❯ Implemented the main color theme file [`Nord.xccolortheme`](https://github.com/arcticicestudio/nord-xcode/blob/develop/src/Nord.xccolortheme). (@arcticicestudio, #1, 8a9a2ac3)
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/src/assets/scrot-preview.png"/></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/src/assets/scrot-docs-preferences-editor.png"/><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/src/assets/scrot-docs-preferences-console.png"/></p>
+
 # 0.0.0
 *2017-04-23*
 ❯ **Project Initialization**

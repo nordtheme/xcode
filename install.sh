@@ -9,6 +9,7 @@
 # ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 set -e
 
+NORD_XCODE_VERSION=0.1.0
 NORD_XCODE_SCRIPT_OPTS=`getopt -o vghc: --long verbose,help,colortheme: -n 'install.sh' -- "$@"`
 COLOR_THEME_FILE=src/Nord.xccolortheme
 VERBOSE=false
@@ -43,7 +44,7 @@ __cleanup() {
   trap '' SIGINT SIGTERM
   unset -v _ct_error _ct_success _ct_warning _ct_highlight _ct_primary _ct
   unset -v _ctb_error _ctb_success _ctb_warning _ctb_highlight _ctb_primary _ctb _c_reset
-  unset -v NORD_XCODE_SCRIPT_OPTS COLOR_THEME_FILE VERBOSE LOCAL_INSTALL
+  unset -v NORD_XCODE_SCRIPT_OPTS COLOR_THEME_FILE VERBOSE LOCAL_INSTALL NORD_XCODE_VERSION
   unset -f __help __cleanup __log_error __log_success __log_warning __log_info
   unset -f __validate_file __local_install
 }

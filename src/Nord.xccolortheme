@@ -1,3 +1,20 @@
+<!--
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+title      Nord Xcode                                    +
+project    nord-xcode                                    +
+version    0.1.0                                         +
+repository https://github.com/arcticicestudio/nord-xcode +
+author     Arctic Ice Studio                             +
+email      development@arcticicestudio.com               +
+copyright  Copyright (C) 2017                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+[References]
+Nord
+  http://github.com/arcticicestudio/nord
+Apple
+  https://developer.apple.com/xcode
+-->
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
