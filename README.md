@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord-xcode/develop/src/assets/nord-xcode-banner.svg"/></p>
+<p align="center"><img src="https://cdn.rawgit.com/arcticicestudio/nord-xcode/develop/assets/nord-xcode-banner.svg"/></p>
 
 <p align="center"><img src="https://assets-cdn.github.com/favicon.ico" width=24 height=24/> <a href="https://github.com/arcticicestudio/nord-xcode/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-xcode.svg?style=flat-square"/></a> <a href="https://github.com/arcticicestudio/nord/releases/tag/v0.2.0"><img src="https://img.shields.io/badge/Nord-v0.2.0-88C0D0.svg?style=flat-square"/></a> <a href="https://developer.apple.com/xcode"><img src="https://img.shields.io/badge/Xcode-v8+-1C91FE.svg?style=flat-square"/></a></p>
 
@@ -9,13 +9,15 @@ Based on the <a href="https://github.com/arcticicestudio/nord">Nord</a> color pa
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/src/assets/scrot-preview.png"/><blockquote>Font: <a href="https://developer.apple.com/fonts">SF Mono</a> 12px.</blockquote></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrot-preview.png"/><blockquote>Font: <a href="https://developer.apple.com/fonts">SF Mono</a> 12px.</blockquote></p>
 
   - [Getting started](#getting-started)
     - [Installation](#installation)
       - [Manual](#manual)
       - [Install Script](#install-script)
     - [Activation](#activation)
+  - [Asset Catalog](#asset-catalog)
+    - [Color Set](#color-set)
   - [Development](#development)
     - [Contribution](#contribution)
 
@@ -44,7 +46,21 @@ Syntax: `install.sh [OPTIONS]`
   2. Switch to the *Fonts & Colors* tab
   3. Select `Nord` from the list
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/src/assets/scrot-docs-preferences-editor.png"/><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/src/assets/scrot-docs-preferences-console.png"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrot-docs-preferences-editor.png"/><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrot-docs-preferences-console.png"/></p>
+
+## Asset Catalog
+
+### Color Set
+
+Nord XCode provides a [asset catalog][asset-catalog] color set which can be used as named colors in the [Interface Builder][interface-builder] and programmatically via `UIColor(named:)`.
+
+Install it by [adding the][add-folder-to-project] [nord.xcassets][nord-xcassets] [folder to the project][add-folder-to-project].
+
+<p align="center"><strong>Usage with the Interface Builder</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrot-asset-catalog-color-set-interface-builder.png"/></p>
+
+For more information please read the official documentation section on how to [create a color set to use in Interface Builder][asset-catalog-creation].
+
+<p align="center"><strong>Asset Catalog - Color Set</strong><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrot-asset-catalog-color-set.png"/><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrot-asset-catalog-color-set-selected.png"/><br><img src="https://raw.githubusercontent.com/arcticicestudio/nord-xcode/develop/assets/scrcast-assets-catalog-color-set.gif"/></p>
 
 ## Development
 [![](https://img.shields.io/badge/Changelog-0.1.0-81A1C1.svg?style=flat-square)](https://github.com/arcticicestudio/nord-xcode/blob/v0.1.0/CHANGELOG.md) [![](https://img.shields.io/badge/Workflow-gitflow--branching--model-81A1C1.svg?style=flat-square)](http://nvie.com/posts/a-successful-git-branching-model) [![](https://img.shields.io/badge/Versioning-ArcVer_0.8.0-81A1C1.svg?style=flat-square)](https://github.com/arcticicestudio/arcver)
@@ -57,3 +73,9 @@ Please report issues/bugs, feature requests and suggestions for improvements to 
 <p align="center"> <img src="http://arcticicestudio.com/favicon.ico" width=16 height=16/> Copyright &copy; 2017 Arctic Ice Studio</p>
 
 <p align="center"><a href="http://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/License-Apache_2.0-5E81AC.svg?style=flat-square"/></a> <a href="https://creativecommons.org/licenses/by-sa/4.0"><img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-5E81AC.svg?style=flat-square"/></a></p>
+
+[asset-catalog]: https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_ref-Asset_Catalog_Format
+[asset-catalog-creation]: http://help.apple.com/xcode/mac/current/#/dev10510b1f7
+[interface-builder]: https://developer.apple.com/xcode/interface-builder
+[add-folder-to-project]: http://help.apple.com/xcode/mac/current/#/dev81ce1d383
+[nord-xcassets]: https://github.com/arcticicestudio/nord-xcode/tree/develop/src/nord.xcassets
