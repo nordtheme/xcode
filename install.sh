@@ -1,12 +1,11 @@
 #!/usr/bin/env bash
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# title      Install Script                                +
-# project    nord-xcode                                    +
-# repository https://github.com/arcticicestudio/nord-xcode +
-# author     Arctic Ice Studio                             +
-# email      development@arcticicestudio.com               +
-# copyright  Copyright (C) 2017                            +
-# ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+# Copyright (c) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
+# Copyright (c) 2017-present Sven Greb <code@svengreb.de>
+
+# Project:    Nord Xcode
+# Repository: https://github.com/arcticicestudio/nord-xcode
+# License:    MIT
+
 set -e
 
 NORD_XCODE_VERSION=0.1.0
