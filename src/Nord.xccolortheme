@@ -1,18 +1,12 @@
 <!--
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-title      Nord Xcode                                    +
-project    nord-xcode                                    +
-version    0.1.0                                         +
-repository https://github.com/arcticicestudio/nord-xcode +
-author     Arctic Ice Studio                             +
-email      development@arcticicestudio.com               +
-copyright  Copyright (C) 2017                            +
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Copyright (C) 2017-present Arctic Ice Studio <development@arcticicestudio.com>
+Copyright (C) 2017-present Sven Greb <development@svengreb.de>
 
-[References]
-Nord
-  http://github.com/arcticicestudio/nord
-Apple
+Project:    Nord Xcode
+Version:    0.2.0
+Repository: https://github.com/arcticicestudio/nord-xcode
+License:    MIT
+References
   https://developer.apple.com/xcode
 -->
 <?xml version="1.0" encoding="UTF-8"?>
@@ -102,9 +96,9 @@ Apple
       <key>xcode.syntax.character</key>
       <string>0.574309 0.70253 0.464919 1</string>
       <key>xcode.syntax.comment</key>
-      <string>0.239159 0.263378 0.343876 1</string>
+      <string>0.307666 0.352597 0.459645 1</string>
       <key>xcode.syntax.comment.doc</key>
-      <string>0.239159 0.263378 0.343876 1</string>
+      <string>0.307666 0.352597 0.459645 1</string>
       <key>xcode.syntax.comment.doc.keyword</key>
       <string>0.506519 0.684472 0.678581 1</string>
       <key>xcode.syntax.identifier.class</key>
