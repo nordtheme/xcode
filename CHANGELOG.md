@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.nordtheme.com/ports/xcode" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/xcode/repository-hero.svg?sanitize=true"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/ports/xcode" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/repository-hero.svg?sanitize=true"/></a></p>
 
 <p align="center"><a href="https://github.com/arcticicestudio/nord-xcode/releases/latest"><img src="https://img.shields.io/github/release/arcticicestudio/nord-xcode.svg?style=flat-square&label=Release&logo=github&logoColor=eceff4&colorA=4c566a&colorB=88c0d0"/></a> <a href="https://www.nordtheme.com/docs/ports/xcode"><img src="https://img.shields.io/github/release/arcticicestudio/nord-xcode.svg?style=flat-square&label=Docs&colorA=4c566a&colorB=88c0d0&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI%2BCiAgICA8cGF0aCBmaWxsPSIjZDhkZWU5IiBkPSJNMTMuNzQ2IDIuODEzYS42Ny42NyAwIDAgMC0uNTU5LS4xMzNMOCAzLjg0OGwtNS4xODgtMS4xOGEuNjY5LjY2OSAwIDAgMC0uNTcuMTMzLjY3Ny42NzcgMCAwIDAtLjI0Mi41MzF2OC4xMzNjLS4wMDguMzIuMjEuNTk4LjUyLjY2OGw1LjMzMiAxLjE5OWguMjk2bDUuMzMyLTEuMmEuNjY4LjY2OCAwIDAgMCAuNTItLjY2N1YzLjMzMmEuNjU5LjY1OSAwIDAgMC0uMjU0LS41MnpNMy4zMzIgNC4xNjhsNCAuODk4djYuNzY2bC00LS44OTh6bTkuMzM2IDYuNzY2bC00IC44OThWNS4wNjZsNC0uODk4em0wIDAiLz4KPC9zdmc%2BCg%3D%3D"/></a></p>
 
@@ -33,10 +33,10 @@ Please see the [corresponding issue in the Nord Docs repository][gh-nord-docs#18
 See [Nord's official documentation to learn how to use the color set][nord-docs-ports-xcode-asset_catalog].
 
 <p align="center">Asset Catalog Color Set</p>
-<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/xcode/ui-asset_catalog.png" alt="Preview: Nord Xcode Asset Catalog Color Set"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/ui-asset_catalog.png" alt="Preview: Nord Xcode Asset Catalog Color Set"/></a></p>
 
 <p align="center">Xcode Interface Builder with Nord</p>
-<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/ports/xcode/ui-interface_builder.png" alt="Preview: Nord Xcode Interface Builder with Nord"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/ui-interface_builder.png" alt="Preview: Nord Xcode Interface Builder with Nord"/></a></p>
 
 ## Improvements
 
