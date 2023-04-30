@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://www.nordtheme.com/ports/xcode" target="_blank">
     <picture>
-      <source srcset="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/repository-hero.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img srcset="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/repository-hero.svg?sanitize=true" width="100%" />
+      <source srcset="https://raw.githubusercontent.com/nordtheme/web/main/assets/images/ports/xcode/repository-hero.svg?sanitize=true" width="100%" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img srcset="https://raw.githubusercontent.com/nordtheme/web/main/assets/images/ports/xcode/repository-hero.svg?sanitize=true" width="100%" />
     </picture>
   </a>
 </p>
@@ -56,10 +56,10 @@ Please see the [corresponding issue in the Nord Docs repository][gh-nord-docs#18
 See [Nord's official documentation to learn how to use the color set][nord-docs-ports-xcode-asset_catalog].
 
 <p align="center">Asset Catalog Color Set</p>
-<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/ui-asset_catalog.png" alt="Preview: Nord Xcode Asset Catalog Color Set"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/nordtheme/web/main/assets/images/ports/xcode/ui-asset_catalog.png" alt="Preview: Nord Xcode Asset Catalog Color Set"/></a></p>
 
 <p align="center">Xcode Interface Builder with Nord</p>
-<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/main/assets/images/ports/xcode/ui-interface_builder.png" alt="Preview: Nord Xcode Interface Builder with Nord"/></a></p>
+<p align="center"><a href="https://www.nordtheme.com/docs/ports/xcode/asset_catalog" target="_blank"><img src="https://raw.githubusercontent.com/nordtheme/web/main/assets/images/ports/xcode/ui-interface_builder.png" alt="Preview: Nord Xcode Interface Builder with Nord"/></a></p>
 
 ## Improvements
 
@@ -156,7 +156,7 @@ _2017-04-23_
 
 <!-- v0.22.0 -->
 
-[gh-nord-docs#182]: https://github.com/arcticicestudio/nord-docs/issues/182
+[gh-nord-docs#182]: https://github.com/nordtheme/web/issues/182
 [gh-nord#55]: https://github.com/nordtheme/nord/issues/55
 [gh-nord#94]: https://github.com/nordtheme/nord/issues/94
 [gh-user-ornithocoder]: https://github.com/ornithocoder
